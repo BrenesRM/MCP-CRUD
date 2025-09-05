@@ -1,8 +1,8 @@
-.venv\\Scripts\\activate
-uv add mcp\[cli]
-pip install mcp
+.venv\\Scripts\\activate  
+uv add mcp\[cli]    
+pip install mcp  
 
-mcp dev server.py
+mcp dev server.py  
 
 
 
@@ -21,4 +21,5 @@ mcp dev server.py
 
 
 mcp install server.py
+
 
